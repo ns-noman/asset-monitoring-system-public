@@ -31,7 +31,7 @@
   <h2>🚀 Getting Started</h2>
 
   <h3>📥 1. Clone the Repository</h3>
-  <pre><code>git clone https://github.com/your-username/branch-asset-monitoring-system.git
+  <pre><code>git clone https://github.com/ns-noman/asset-monitoring-system-public.git
 cd branch-asset-monitoring-system</code></pre>
 
   <h3>📦 2. Install Dependencies</h3>
@@ -43,8 +43,8 @@ npm install &amp;&amp; npm run dev</code></pre>
 php artisan key:generate</code></pre>
   <p>Update your <code>.env</code> file with database credentials:</p>
   <pre><code>DB_DATABASE=your_database
-DB_USERNAME=your_username
-DB_PASSWORD=your_password</code></pre>
+  DB_USERNAME=your_username
+  DB_PASSWORD=your_password</code></pre>
 
   <h3>🧱 4. Migrate Database</h3>
   <pre><code>php artisan migrate</code></pre>
@@ -67,5 +67,5 @@ DB_PASSWORD=your_password</code></pre>
 
   <h2>📄 License</h2>
   <p>
-    This project is licensed under the <strong>MIT License</strong>. You are free to use, modify, and distribute it.
+    This project is licensed.
   </p>
